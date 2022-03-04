@@ -1,0 +1,15 @@
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/bin/Debug/net6.0/console-programming
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/bin/Debug/net6.0/console-programming.deps.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/bin/Debug/net6.0/console-programming.runtimeconfig.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/bin/Debug/net6.0/console-programming.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/bin/Debug/net6.0/console-programming.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/obj/Debug/net6.0/console-programming.csproj.AssemblyReference.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/obj/Debug/net6.0/console-programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/obj/Debug/net6.0/console-programming.AssemblyInfoInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/obj/Debug/net6.0/console-programming.AssemblyInfo.cs
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/obj/Debug/net6.0/console-programming.csproj.CoreCompileInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/obj/Debug/net6.0/console-programming.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/obj/Debug/net6.0/refint/console-programming.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/obj/Debug/net6.0/console-programming.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/obj/Debug/net6.0/console-programming.genruntimeconfig.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/console-programming/obj/Debug/net6.0/ref/console-programming.dll
