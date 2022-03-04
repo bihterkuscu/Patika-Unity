@@ -1,4 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("I am learning Unity");
-Console.WriteLine("Its s")
+using System;
+
+namespace console_programming;
+
+class Program{
+    public static void Main(String[] args){
+        Console.WriteLine("Hi My Name Bihter!");
+    }
+}
