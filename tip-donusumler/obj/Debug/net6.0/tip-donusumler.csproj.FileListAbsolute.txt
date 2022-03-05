@@ -1,0 +1,15 @@
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/obj/Debug/net6.0/tip-donusumler.csproj.AssemblyReference.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/obj/Debug/net6.0/tip-donusumler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/obj/Debug/net6.0/tip-donusumler.AssemblyInfoInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/obj/Debug/net6.0/tip-donusumler.AssemblyInfo.cs
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/obj/Debug/net6.0/tip-donusumler.csproj.CoreCompileInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/bin/Debug/net6.0/tip-donusumler
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/bin/Debug/net6.0/tip-donusumler.deps.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/bin/Debug/net6.0/tip-donusumler.runtimeconfig.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/bin/Debug/net6.0/tip-donusumler.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/bin/Debug/net6.0/tip-donusumler.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/obj/Debug/net6.0/tip-donusumler.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/obj/Debug/net6.0/refint/tip-donusumler.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/obj/Debug/net6.0/tip-donusumler.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/obj/Debug/net6.0/tip-donusumler.genruntimeconfig.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/tip-donusumler/obj/Debug/net6.0/ref/tip-donusumler.dll
