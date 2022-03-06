@@ -1,0 +1,15 @@
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/bin/Debug/net6.0/donguler_while_foreach
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/bin/Debug/net6.0/donguler_while_foreach.deps.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/bin/Debug/net6.0/donguler_while_foreach.runtimeconfig.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/bin/Debug/net6.0/donguler_while_foreach.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/bin/Debug/net6.0/donguler_while_foreach.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/obj/Debug/net6.0/donguler_while_foreach.csproj.AssemblyReference.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/obj/Debug/net6.0/donguler_while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/obj/Debug/net6.0/donguler_while_foreach.AssemblyInfoInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/obj/Debug/net6.0/donguler_while_foreach.AssemblyInfo.cs
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/obj/Debug/net6.0/donguler_while_foreach.csproj.CoreCompileInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/obj/Debug/net6.0/donguler_while_foreach.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/obj/Debug/net6.0/refint/donguler_while_foreach.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/obj/Debug/net6.0/donguler_while_foreach.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/obj/Debug/net6.0/donguler_while_foreach.genruntimeconfig.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/donguler_while_foreach/obj/Debug/net6.0/ref/donguler_while_foreach.dll
