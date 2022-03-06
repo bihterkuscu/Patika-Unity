@@ -1,0 +1,15 @@
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/bin/Debug/net6.0/kurucu_metotlar
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/bin/Debug/net6.0/kurucu_metotlar.deps.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/bin/Debug/net6.0/kurucu_metotlar.runtimeconfig.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/bin/Debug/net6.0/kurucu_metotlar.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/bin/Debug/net6.0/kurucu_metotlar.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/obj/Debug/net6.0/kurucu_metotlar.csproj.AssemblyReference.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/obj/Debug/net6.0/kurucu_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/obj/Debug/net6.0/kurucu_metotlar.AssemblyInfoInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/obj/Debug/net6.0/kurucu_metotlar.AssemblyInfo.cs
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/obj/Debug/net6.0/kurucu_metotlar.csproj.CoreCompileInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/obj/Debug/net6.0/kurucu_metotlar.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/obj/Debug/net6.0/refint/kurucu_metotlar.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/obj/Debug/net6.0/kurucu_metotlar.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/obj/Debug/net6.0/kurucu_metotlar.genruntimeconfig.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/kurucu_metotlar/obj/Debug/net6.0/ref/kurucu_metotlar.dll
