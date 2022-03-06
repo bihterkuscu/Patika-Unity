@@ -1,0 +1,15 @@
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/bin/Debug/net6.0/arraylist
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/bin/Debug/net6.0/arraylist.deps.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/bin/Debug/net6.0/arraylist.runtimeconfig.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/bin/Debug/net6.0/arraylist.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/bin/Debug/net6.0/arraylist.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/obj/Debug/net6.0/arraylist.csproj.AssemblyReference.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/obj/Debug/net6.0/arraylist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/obj/Debug/net6.0/arraylist.AssemblyInfoInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/obj/Debug/net6.0/arraylist.AssemblyInfo.cs
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/obj/Debug/net6.0/arraylist.csproj.CoreCompileInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/obj/Debug/net6.0/arraylist.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/obj/Debug/net6.0/refint/arraylist.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/obj/Debug/net6.0/arraylist.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/obj/Debug/net6.0/arraylist.genruntimeconfig.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/arraylist/obj/Debug/net6.0/ref/arraylist.dll
