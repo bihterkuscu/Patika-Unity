@@ -1,0 +1,15 @@
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/bin/Debug/net6.0/hazir_metotlar_datetime_math
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/bin/Debug/net6.0/hazir_metotlar_datetime_math.deps.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/bin/Debug/net6.0/hazir_metotlar_datetime_math.runtimeconfig.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/bin/Debug/net6.0/hazir_metotlar_datetime_math.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/bin/Debug/net6.0/hazir_metotlar_datetime_math.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/obj/Debug/net6.0/hazir_metotlar_datetime_math.csproj.AssemblyReference.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/obj/Debug/net6.0/hazir_metotlar_datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/obj/Debug/net6.0/hazir_metotlar_datetime_math.AssemblyInfoInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/obj/Debug/net6.0/hazir_metotlar_datetime_math.AssemblyInfo.cs
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/obj/Debug/net6.0/hazir_metotlar_datetime_math.csproj.CoreCompileInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/obj/Debug/net6.0/hazir_metotlar_datetime_math.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/obj/Debug/net6.0/refint/hazir_metotlar_datetime_math.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/obj/Debug/net6.0/hazir_metotlar_datetime_math.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/obj/Debug/net6.0/hazir_metotlar_datetime_math.genruntimeconfig.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/hazir_metotlar_datetime_math/obj/Debug/net6.0/ref/hazir_metotlar_datetime_math.dll
