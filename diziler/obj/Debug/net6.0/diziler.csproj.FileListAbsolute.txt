@@ -1,0 +1,5 @@
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler/obj/Debug/net6.0/diziler.csproj.AssemblyReference.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler/obj/Debug/net6.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler/obj/Debug/net6.0/diziler.AssemblyInfoInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler/obj/Debug/net6.0/diziler.AssemblyInfo.cs
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler/obj/Debug/net6.0/diziler.csproj.CoreCompileInputs.cache
