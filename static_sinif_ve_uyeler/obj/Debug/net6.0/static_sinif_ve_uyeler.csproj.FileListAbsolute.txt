@@ -1,0 +1,15 @@
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/bin/Debug/net6.0/static_sinif_ve_uyeler
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/bin/Debug/net6.0/static_sinif_ve_uyeler.deps.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/bin/Debug/net6.0/static_sinif_ve_uyeler.runtimeconfig.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/bin/Debug/net6.0/static_sinif_ve_uyeler.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/bin/Debug/net6.0/static_sinif_ve_uyeler.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/obj/Debug/net6.0/static_sinif_ve_uyeler.csproj.AssemblyReference.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/obj/Debug/net6.0/static_sinif_ve_uyeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/obj/Debug/net6.0/static_sinif_ve_uyeler.AssemblyInfoInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/obj/Debug/net6.0/static_sinif_ve_uyeler.AssemblyInfo.cs
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/obj/Debug/net6.0/static_sinif_ve_uyeler.csproj.CoreCompileInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/obj/Debug/net6.0/static_sinif_ve_uyeler.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/obj/Debug/net6.0/refint/static_sinif_ve_uyeler.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/obj/Debug/net6.0/static_sinif_ve_uyeler.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/obj/Debug/net6.0/static_sinif_ve_uyeler.genruntimeconfig.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/static_sinif_ve_uyeler/obj/Debug/net6.0/ref/static_sinif_ve_uyeler.dll
