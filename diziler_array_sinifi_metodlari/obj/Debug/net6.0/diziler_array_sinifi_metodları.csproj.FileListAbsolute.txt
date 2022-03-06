@@ -1,0 +1,15 @@
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/bin/Debug/net6.0/diziler_array_sinifi_metodları
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/bin/Debug/net6.0/diziler_array_sinifi_metodları.deps.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/bin/Debug/net6.0/diziler_array_sinifi_metodları.runtimeconfig.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/bin/Debug/net6.0/diziler_array_sinifi_metodları.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/bin/Debug/net6.0/diziler_array_sinifi_metodları.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/obj/Debug/net6.0/diziler_array_sinifi_metodları.csproj.AssemblyReference.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/obj/Debug/net6.0/diziler_array_sinifi_metodları.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/obj/Debug/net6.0/diziler_array_sinifi_metodları.AssemblyInfoInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/obj/Debug/net6.0/diziler_array_sinifi_metodları.AssemblyInfo.cs
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/obj/Debug/net6.0/diziler_array_sinifi_metodları.csproj.CoreCompileInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/obj/Debug/net6.0/diziler_array_sinifi_metodları.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/obj/Debug/net6.0/refint/diziler_array_sinifi_metodları.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/obj/Debug/net6.0/diziler_array_sinifi_metodları.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/obj/Debug/net6.0/diziler_array_sinifi_metodları.genruntimeconfig.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/diziler_array_sinifi_metodları/obj/Debug/net6.0/ref/diziler_array_sinifi_metodları.dll
