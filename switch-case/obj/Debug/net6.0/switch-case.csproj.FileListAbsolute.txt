@@ -1,0 +1,15 @@
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/bin/Debug/net6.0/switch-case
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/bin/Debug/net6.0/switch-case.deps.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/bin/Debug/net6.0/switch-case.runtimeconfig.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/bin/Debug/net6.0/switch-case.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/bin/Debug/net6.0/switch-case.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/obj/Debug/net6.0/switch-case.csproj.AssemblyReference.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/obj/Debug/net6.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfoInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfo.cs
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/obj/Debug/net6.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/obj/Debug/net6.0/switch-case.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/obj/Debug/net6.0/refint/switch-case.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/obj/Debug/net6.0/switch-case.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/obj/Debug/net6.0/switch-case.genruntimeconfig.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/switch-case/obj/Debug/net6.0/ref/switch-case.dll
