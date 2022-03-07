@@ -1,0 +1,15 @@
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/obj/Debug/net6.0/Soru_3.csproj.AssemblyReference.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/obj/Debug/net6.0/Soru_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/obj/Debug/net6.0/Soru_3.AssemblyInfoInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/obj/Debug/net6.0/Soru_3.AssemblyInfo.cs
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/obj/Debug/net6.0/Soru_3.csproj.CoreCompileInputs.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/bin/Debug/net6.0/Soru_3
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/bin/Debug/net6.0/Soru_3.deps.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/bin/Debug/net6.0/Soru_3.runtimeconfig.json
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/bin/Debug/net6.0/Soru_3.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/bin/Debug/net6.0/Soru_3.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/obj/Debug/net6.0/Soru_3.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/obj/Debug/net6.0/refint/Soru_3.dll
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/obj/Debug/net6.0/Soru_3.pdb
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/obj/Debug/net6.0/Soru_3.genruntimeconfig.cache
+/Users/elifbihterkuscu/Desktop/Patika-Unity/Odev_2/Soru_3/obj/Debug/net6.0/ref/Soru_3.dll
